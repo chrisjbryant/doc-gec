@@ -2,7 +2,7 @@
 
 This repository contains the scripts used to generate the document-level evaluation data in:  
 
-> Zheng Yuan and Christopher Bryant. 2021. **Document-level grammatical error correction**. In Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications. Kyiv, Ukraine.
+> Zheng Yuan and Christopher Bryant. 2021. [**Document-level grammatical error correction**](https://www.aclweb.org/anthology/2021.bea-1.8/). In Proceedings of the Sixteenth Workshop on Innovative Use of NLP for Building Educational Applications. Kyiv, Ukraine.
 
 ## Overview
 
